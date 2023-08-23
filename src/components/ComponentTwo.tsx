@@ -1,7 +1,7 @@
 const ComponentTwo = () => {
     return (
         <div>
-            Components 2
+            Component 2
         </div>
     );
 };
